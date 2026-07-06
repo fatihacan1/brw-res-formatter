@@ -1,6 +1,6 @@
 {
   "name": "brw-res-formatter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple, type-safe response formatter for Express.js applications. Provides standardized JSON responses for both success and error cases.",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -71,7 +71,8 @@
     "dist",
     "README.md",
     "CHANGELOG.md",
-    "LICENSE"
+    "LICENSE",
+    "AGENTS.md"
   ],
   "engines": {
     "node": ">=16.0.0"
