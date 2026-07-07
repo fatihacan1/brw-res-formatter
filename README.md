@@ -524,5 +524,5 @@ Copyright © 2026 **Fatih Acan**
 ---
 
 <p align="center">
-  Maintained by <a href="https://github.com/scaryBrownie">scaryBrownie</a>
+  Maintained by <a href="https://github.com/fatihacan1">fatihacan1</a>
 </p>
